@@ -1,0 +1,2 @@
+in bind <socket.socket fd=22, family=AddressFamily.AF_INET, type=SocketKind.SOCK_DGRAM, proto=0, laddr=('0.0.0.0', 0)>
+UDP server up and listening
